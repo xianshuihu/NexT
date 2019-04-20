@@ -306,7 +306,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: xianshuihu
   count: true
 
